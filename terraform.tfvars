@@ -1,0 +1,5 @@
+rgname = "day20-rg"
+location = "canadacentral"
+service_principal_name = "day20-sp"
+keyvault_name = "day20-key-vault"
+SUB_ID = "2ac25969-238c-4f8b-9431-cb2080a7b80e"
